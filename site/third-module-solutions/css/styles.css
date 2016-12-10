@@ -1,0 +1,109 @@
+#list {
+  margin-top: 10px;
+}
+
+
+#nav-list li:hover {
+  background: #E7E7E7;
+  font-size: 1.8em;
+}
+
+#nav-list li span a {
+  font-size: 1.8em;
+  text-align: center
+}
+
+#nav-list li {
+    list-style-type: none;
+    background: #f6b3ff;
+    color: #951C00;
+    text-align: center;
+    margin-left: 0px;
+    font-size: 1.8em;
+    padding: 0em;
+  	border: 1px solid #61122f;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+  margin-bottom: 5px;
+}
+
+#nav-list ul {
+	margin-right: 0px;
+
+}
+
+.navbar-brand {
+
+}
+
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#collapsable-nav a span li{ /* Collapsed nav menu glyph */
+    font-size: 1.8em;
+    margin-right: 50px;
+    margin-left: 1px;
+    clear:both;
+  }
+
+.div-margin {
+	margin-left: 0px
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+  padding: 0em;
+
+}
+
+.noborder {
+  padding-left: 0px;
+  margin: 0px 0px 0px 0px;
+
+}
+
+.box {
+	border: 1px solid black;
+	background-color: #e0e0e0;
+	margin: 10px 10px 10px 10px;
+	padding-top: 0x;
+}	
+	
+.small-box {
+	text-align: center;
+	padding: 5px 30px 5px 30px;
+	float:both;		
+	margin-top: 0px;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+
+.box-main {
+	clear: right;
+	padding: 0px 15px 0px 15px;
+	font-size: 100%;
+	margin 0px;
+	padding 0px;
+}
+
+body {
+	font-size: 16px;
+	background: #61122f;
+  font-size:'Oxygen', sans-serif;
+}
+
